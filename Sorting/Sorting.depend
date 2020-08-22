@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1598123384 source:c:\users\ram\desktop\sorting\main.cpp
+	<iostream>
+	"ins_sort.h"
+	"Heap.h"
+	"mer.h"
+	"selection_sort.h"
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"Bubble_sort.h"
+	<string>
+	<bits/stdc++.h>
+	<fstream>
+
+1584376740 c:\users\ram\desktop\sorting\include\ins_sort.h
+
+1584376740 c:\users\ram\desktop\sorting\include\heap.h
+
+1597976944 c:\users\ram\desktop\sorting\include\mer.h
+	<malloc.h>
+	<string>
+	<bits/stdc++.h>
+	<fstream>
+
+1597972464 c:\users\ram\desktop\sorting\include\selection_sort.h
+
+1597972230 c:\users\ram\desktop\sorting\include\bubble_sort.h
+
+1584377282 c:\users\ram\desktop\sorting\include\mergy.h
+	<malloc.h>
+	<string>
+	<bits/stdc++.h>
+	<fstream>
+
+1597972230 source:c:\users\ram\desktop\sorting\src\bubble_sort.cpp
+	"Bubble_sort.h"
+	<iostream>
+	<malloc.h>
+	<string>
+	<bits/stdc++.h>
+	<fstream>
+
+1584376740 source:c:\users\ram\desktop\sorting\src\heap.cpp
+	"Heap.h"
+	<malloc.h>
+	<math.h>
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<fstream>
+
+1584376740 source:c:\users\ram\desktop\sorting\src\ins_sort.cpp
+	"ins_sort.h"
+	<iostream>
+	<malloc.h>
+	<string>
+	<bits/stdc++.h>
+	<fstream>
+
+1597976944 source:c:\users\ram\desktop\sorting\src\mer.cpp
+	"mer.h"
+	<iostream>
+	<malloc.h>
+	<string>
+	<bits/stdc++.h>
+	<fstream>
+
+1584376740 source:c:\users\ram\desktop\sorting\src\mergy.cpp
+	"mergy.h"
+	<iostream>
+	<malloc.h>
+	<string>
+	<bits/stdc++.h>
+	<fstream>
+
+1584376740 source:c:\users\ram\desktop\sorting\src\selection_sort.cpp
+	"selection_sort.h"
+	<iostream>
+	<malloc.h>
+	<string>
+	<bits/stdc++.h>
+	<fstream>
+
